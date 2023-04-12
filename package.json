@@ -1,0 +1,22 @@
+{
+  "name": "javascripthijriconverter",
+  "version": "1.0.0",
+  "description": "Convert date to hijri",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest tests",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "hijri",
+    "converter",
+    "javascript",
+    "hijri",
+    "converter"
+  ],
+  "author": "https://github.com/Bahrul-Rozak",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
